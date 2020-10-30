@@ -1,0 +1,240 @@
+.profile-content-wrapper {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    padding-top: 10px;
+}
+
+.signout-settings-button-wrapper {
+    margin: 0 auto;
+}
+
+.button-style {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.avatar-container {
+    text-align: center;
+    padding: 7% 0% 10% 0%;
+}
+
+.avatar-image-style {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+
+}
+
+.public-card-table-style {
+    margin: 0 auto;
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 1px;
+}
+
+.public-card-table-first-column-style {
+    width: 250px;
+}
+
+.section-wrapper {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.section-header-style {
+    color: #4d4d51;
+    width: 100%;
+    border-bottom: solid #e2e2e2 1px;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.section-header-style-no-underline {
+    color: #4d4d51;
+    width: 100%;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.section-spacing {
+    margin-top: 20px;
+}
+
+.jobinfo-flex-wrapper {
+    justify-content: space-around;
+}
+
+table {
+    width: 100%;
+    font-size: small;
+}
+
+tr {
+    line-height: 30px;
+}
+
+td {
+    padding: 0 5px 0 20px;
+}
+
+.attribute-style{
+    font-weight: bold;
+    color: #4d4d51;
+}
+
+.download-link-style{
+    text-decoration: none;
+    border: solid 1px #4d4d51;
+    color: #4d4d51;
+    padding: 5px 10px;
+}
+
+.download-link-style:hover {
+    text-decoration: none;
+    border: solid 1px #4d4d51;
+    color: #4d4d51;
+    padding: 5px 10px;
+}
+
+.link-style-class-grey-no-underline {
+    font-weight: bold;
+    text-decoration: none;
+    color: #4d4d51;
+}
+
+.link-style-class-grey-no-underline:hover {
+    font-weight: bold;
+    text-decoration: none;
+    color: #4d4d51;
+}
+
+.link-style-class-grey {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #4d4d51;
+}
+
+.link-style-class-grey:hover {
+    color: #4d4d51;
+}
+
+/*for the time-line*/
+
+#timeline-content {
+    margin-top: 50px;
+    text-align: center;
+}
+/* Timeline */
+.timeline {
+    border-left: 1px solid #4d4d51;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+    background: rgba(255, 255, 255, 0.03);
+    color: #4d4d51;
+    letter-spacing: 0.5px;
+    position: relative;
+    line-height: 1.4em;
+    font-size: x-small;
+    /*padding-right: 50px;*/
+    padding-left: 52px;
+    list-style: none;
+    text-align: left;
+    font-weight: 100;
+    max-width: 100%;
+    margin-left: 20px;
+}
+.timeline h1 {
+    /*font-family: "Saira", sans-serif;*/
+    /*letter-spacing: 1.5px;*/
+    font-weight: bold;
+    font-size: x-small;
+}
+.timeline .event {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.timeline .event-active {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.timeline .event:last-of-type {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border: none;
+}
+
+.timeline .event:last-of-type {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border: none;
+}
+
+.timeline .event:before,
+.timeline .event-active:before,
+.timeline .event:after {
+    position: absolute;
+    display: block;
+    top: 0;
+}
+
+.timeline .event-active:after {
+    position: absolute;
+    display: block;
+    top: 0;
+}
+.timeline .event:before {
+    left: -217.5px;
+    color: rgba(255, 255, 255, 0.4);
+    /*content: attr(data-date);*/
+    text-align: right;
+    font-weight: 100;
+    font-size: 0.9em;
+    min-width: 120px;
+}
+.timeline .event:after {
+    box-shadow: 0 0 0 1px #4d4d51;
+    left: -57.85px;
+    background: white;
+    border-radius: 50%;
+    height: 11px;
+    width: 11px;
+    content: "";
+    top: 5px;
+}
+
+.timeline .event-active:before {
+    left: -217.5px;
+    color: rgba(255, 255, 255, 0.4);
+    /*content: attr(data-date);*/
+    text-align: right;
+    font-weight: 100;
+    font-size: 0.9em;
+    min-width: 120px;
+}
+
+.timeline .event-active:after {
+    box-shadow: 0 0 0 1px #4d4d51;
+    left: -57.85px;
+    background: #4d4d51;
+    border-radius: 50%;
+    height: 11px;
+    width: 11px;
+    content: "";
+    top: 5px;
+}
+
+.bank-section-header-wrapper {
+    border-bottom: solid 1px #e2e2e2;
+    margin: 0;
+    justify-content: space-between;
+}
+
+.edit-link-style {
+    float: right;
+}
+
+.shift-left-to-counter-row {
+    margin-left : -15px;
+}

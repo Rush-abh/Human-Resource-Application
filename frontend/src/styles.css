@@ -1,0 +1,232 @@
+.active-list-style {
+    display: block;
+    background-color: #e2e2e2;
+    border-radius: 0 50px 50px 0;
+    vertical-align: middle;
+    margin-bottom: 15px;
+}
+
+.link-style-class {
+    color: black;
+    text-decoration: none !important;
+    display: block;
+}
+
+.link-style-class:hover {
+    color: black;
+}
+
+.list-style-class {
+    display: block;
+    vertical-align: middle;
+    margin-bottom: 15px;
+}
+
+div.scrollmenu {
+    /*background-color: #333;*/
+    overflow: auto;
+    white-space: nowrap;
+    border-bottom: solid grey 1px;
+}
+
+.scrollmenu-item {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+.scrollmenu-item-active {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    border-bottom: solid;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.scrollmenu a:active {
+    border-bottom: solid;
+}
+
+.team-color-circle-style {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+#nav-right li{
+    height: 85px;
+    /*padding-left: 20px;*/
+    /*padding-right: 20px;*/
+    /*border-right: solid 1px #e2e2e2;*/
+}
+
+#nav-right li span {
+    height: 85px;
+    border-right: solid 1px #e2e2e2;
+    line-height: 25px;
+    padding-top: 30px;
+    justify-content: center;
+    /*padding-bottom: 50%;*/
+    /*-ms-transform: translateY(50%);*/
+    /*transform: translateY(50%);*/
+}
+
+#nav-right li span button {
+    border-radius: 20px;
+    border: none;
+    background-color: #e2e2e2;
+    color: black;
+    font-size: small;
+    /*margin-left: 26%;*/
+    display: inline-block;
+    width: 100%;
+    /*margin-right: 50%;*/
+}
+
+#nav-right li span button:hover {
+    background-color: blue;
+    color: white;
+}
+
+#nav-right li span i {
+    margin-left: 28%;
+}
+
+
+
+.form-helper-text {
+    text-decoration: none;
+    color: #4d4d51;
+    margin-left: -10px;
+}
+
+.form-helper-text:hover {
+    text-decoration: none;
+    color: white;
+    margin-left: -10px;
+}
+
+.status-text-style {
+    font-size: small;
+    text-align: center;
+}
+
+.dashboard-welcome {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.schedule-box-class {
+    min-height: 150px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.schedule-box-class-white{
+    min-height: 150px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    background-color: white;
+}
+
+.dashboard-shaded-container {
+    margin: 40px 0px;
+    background-color: #e2e2e2;
+}
+
+.dashboard-shaded-container-second-div {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.dashboard-shaded-container-third-div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.dashboard-shaded-container-header {
+    color: #4d4d51;
+}
+
+.dashboard-shaded-container-span {
+    font-size: small;
+}
+
+/*.dashboard-shaded-container div div div{*/
+/*    padding: 10px 0px;*/
+/*}*/
+
+/*.dashboard-shaded-container div div div h4 {*/
+/*    color: #4d4d51;*/
+/*}*/
+
+.employee-status-avatar-container{
+    border-right: solid;
+    border-width: 1px;
+}
+
+.employee-status-avatar-style{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.employee-status-text-style{
+    font-size: small;
+    margin-left: 8px;
+}
+
+.employee-detail-designation-text{
+    font-size: small;
+    margin-top: -3px;
+}
+
+.employee-card-link-container-style{
+    margin-top: -20px;
+}
+
+.employee-card-link-style{
+    font-size: small;
+    font-weight: bold;
+    text-decoration: none !important;
+    color: #4d4d51;
+}
+
+.employee-card-link-style:hover{
+    /*font-size: small;*/
+    /*font-weight: bold;*/
+    /*text-decoration: none !important;*/
+    color: black;
+}
+
+.dashboard-link-to-directory{
+    color: #4d4d51;
+    text-decoration: none !important;
+}
+
+.dashboard-link-to-directory:hover{
+    color: black;
+}
+
+.dashboard-schedule-shortcuts{
+    padding: 10px 0px;
+}
+
+.dashboard-schedule-shortcuts-links{
+    font-size: small;
+    padding-right: 20px;
+}
+

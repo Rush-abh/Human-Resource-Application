@@ -1,0 +1,88 @@
+.MainContainer {
+
+  background-color: #F8F8F8;
+  min-width: 20rem;
+}
+
+.heading {
+
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.Container, .heading {
+
+  display: block;
+  width: 100%;
+  padding-bottom: 2rem;
+}
+
+.title {
+
+  padding-top: 1.12rem;
+  margin: 1rem 0rem 0rem 3rem !important;
+}
+
+.dividers {
+
+  margin-bottom: 1rem;
+  margin-right: 6rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.drop-down {
+  /*
+  width: 33% !important */
+  min-width: 120px !important;
+}
+
+.dividers, .drop-down, .date, .file-upload, .comments, .list {
+
+  margin-left: 3rem !important;
+  margin-top: 1rem !important;
+}
+
+.list-divider {
+
+  margin-left: 3rem !important;
+  margin-right: 7rem !important;
+  margin-top: 1rem;
+}
+
+.switch {
+  margin-top: 3rem !important;
+  margin-left: 2rem !important;
+}
+
+.date-row, .date-column{
+
+  margin-bottom: 1.5rem;
+}
+
+.manager, .submit {
+
+  margin-right: 2rem;
+  margin-top: 2rem;
+  margin-left: 3rem;
+}
+
+.comments, .file-upload {
+
+  margin-right: 2rem !important;
+}
+
+.comments-field, .file-upload-field {
+
+  width: 100%;
+}
+
+.submit {
+
+  text-align: right;
+}
+
+.submit-btn {
+
+  font-size: 0.75rem !important;
+}
