@@ -15,7 +15,7 @@
   * [Prerequisites](#prerequisites)
 * [Development Stages](#development-stages)  
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Tools Used](#Tools Used)
 
 
 
@@ -52,12 +52,16 @@ Following technologies needs to be installed at the moment to execute the code.
 ## Development Stages
 ### Planning
 I worked on planning phase to better understand design the apllication as per the client requirements.It includes multiple steps pf research and work breakdown.
+<p align="center">Project planning</p>
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99239777-a6bf1480-284f-11eb-9e1f-387208c84e20.gif"></p> 
 
 ### Designing
 Next comes the designing phase where I worked on High Level Architecture, Process Maps, UML diagrams, Wireframes, Sitemap and Prototype.
+<p align="center">High level design</p>
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99240191-3c5aa400-2850-11eb-9741-ed0757ebc65a.gif"></p> 
+<p align="center">Development workflow</p>
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99240587-d02c7000-2850-11eb-87ee-098df35e6577.gif"></p> 
+<p align="center">Prototype development</p>
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99240199-411f5800-2850-11eb-8789-74d13c0a9f7e.gif"></p> 
 
 
@@ -76,13 +80,10 @@ In development stage, I worked on developing the database model, backend program
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+[Rushabh Pancholi](https://www.linkedin.com/in/rushabh-pancholi-62235b166/)
 
 
-
-<!-- ACKNOWLEDGEMENTS -->
+<!-- Tools Used -->
 ## Tools Used 
 * [Adobe XD](https://www.adobe.com/au/products/xd.html)
 * [Jira](https://www.atlassian.com/software/jira)
