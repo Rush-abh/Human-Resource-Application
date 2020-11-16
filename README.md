@@ -13,11 +13,7 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
+* [Development Stages](#development-stages)  
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -52,6 +48,7 @@ Following technologies needs to be installed at the moment to execute the code.
 -	ReactJS - 16.12.0
 -	NodeJS - LTS 12.16.3
 
+<!-- Development Stages -->
 ## Development Stages
 ### Planning
 I worked on planning phase to better understand design the apllication as per the client requirements.It includes multiple steps pf research and work breakdown.
@@ -67,7 +64,7 @@ Next comes the designing phase where I worked on High Level Architecture, Proces
 ### Development
 In development stage, I worked on developing the database model, backend programming in django and later also participated to work on frontend programming in ReactJS.
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99241965-ab38fc80-2852-11eb-9bb1-5aa3c7609c8d.gif"></p> 
-<p align="center"><img align="centre" width="500" height="300" src="https://i.imgur.com/bZLFovd.mp4"></p> 
+<p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99246244-1685cd00-2859-11eb-9357-c895055cbdc0.gif"></p> 
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99244256-f1dc2600-2855-11eb-80d5-44de5b7e5c24.gif"></p> 
 
 
@@ -84,16 +81,16 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Tools Used 
-* [Adobe XD](http://jvectormap.com)
-* [Jira](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Confluence](https://shields.io)
-* [SharePoint](https://choosealicense.com)
+* [Adobe XD](https://www.adobe.com/au/products/xd.html)
+* [Jira](https://www.atlassian.com/software/jira)
+* [Confluence](https://www.atlassian.com/software/confluence)
+* [SharePoint](https://www.microsoft.com/en-au/microsoft-365/sharepoint/collaboration)
 * [GitHub Pages](https://pages.github.com)
-* [Bitbucket](https://daneden.github.io/animate.css)
-* [Anaconda](https://connoratherton.com/loaders)
-* [Material UI](https://kenwheeler.github.io/slick)
-* [Draw.io](https://github.com/cferdinandi/smooth-scroll)
-* [Vegas Studio](http://leafo.net/sticky-kit)
+* [Bitbucket](https://bitbucket.org/product)
+* [Anaconda](https://docs.conda.io/projects/conda/en/latest/index.html)
+* [Material UI](https://material-ui.com/)
+* [Draw.io](Draw.io)
+* [Vegas Studio](https://www.vegascreativesoftware.com/au/vegas-movie-studio/)
 
 
 
