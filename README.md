@@ -54,16 +54,21 @@ Following technologies needs to be installed at the moment to execute the code.
 
 ## Development Stages
 ### Planning
+I worked on planning phase to better understand design the apllication as per the client requirements.It includes multiple steps pf research and work breakdown.
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99239777-a6bf1480-284f-11eb-9e1f-387208c84e20.gif"></p> 
 
 ### Designing
+Next comes the designing phase where I worked on High Level Architecture, Process Maps, UML diagrams, Wireframes, Sitemap and Prototype.
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99240191-3c5aa400-2850-11eb-9741-ed0757ebc65a.gif"></p> 
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99240587-d02c7000-2850-11eb-87ee-098df35e6577.gif"></p> 
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99240199-411f5800-2850-11eb-8789-74d13c0a9f7e.gif"></p> 
 
 
 ### Development
-
+In development stage, I worked on developing the database model, backend programming in django and later also participated to work on frontend programming in ReactJS.
+<p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99241965-ab38fc80-2852-11eb-9bb1-5aa3c7609c8d.gif"></p> 
+<p align="center"><img align="centre" width="500" height="300" src="https://i.imgur.com/VbXIQcD.mp4"></p> 
+<p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99244256-f1dc2600-2855-11eb-80d5-44de5b7e5c24.gif"></p> 
 
 
 
@@ -78,18 +83,17 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
+## Tools Used 
+* [Adobe XD](http://jvectormap.com)
+* [Jira](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Confluence](https://shields.io)
+* [SharePoint](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Bitbucket](https://daneden.github.io/animate.css)
+* [Anaconda](https://connoratherton.com/loaders)
+* [Material UI](https://kenwheeler.github.io/slick)
+* [Draw.io](https://github.com/cferdinandi/smooth-scroll)
+* [Vegas Studio](http://leafo.net/sticky-kit)
 
 
 
