@@ -2,19 +2,8 @@
   <h3 align="center">Human Resource Application</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+      <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -37,56 +26,38 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+An application specific to the requirements of an IT company that tracks staff in different departments, maintains their documentation needs (tax, personal info, super, emergency, etc), allocate shifts and manages time-sheets. Also, it is designed with future prospect of converting it into mobile application. It also has API's allowing it to be integrated with any compatible applications.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+Major frameworks used to build the project. 
+* [React](https://reactjs.org/)
+* [MySQL](https://www.mysql.com/)
+* [Django](https://www.djangoproject.com/)
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+Following technologies needs to be installed at the moment to execute the code.
+-	Python version - 3.7.6
+-	Miniconda - 4.8.3
+-	Django 3.0.5
+-	MySQL Community Server - 8.0.20
+-	MySQL Workbench - 8.0.20
+-	Postman - 7.23.0
+-	ReactJS - 16.12.0
+-	NodeJS - LTS 12.16.3
 
-### Installation
+## Development Stages
+### Planning
+<p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99239777-a6bf1480-284f-11eb-9e1f-387208c84e20.gif"></p> 
+![Plan gif](https://user-images.githubusercontent.com/17960965/99239777-a6bf1480-284f-11eb-9e1f-387208c84e20.gif)
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+
 
 
 
