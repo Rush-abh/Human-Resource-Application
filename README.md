@@ -59,7 +59,7 @@ I worked on planning phase to better understand design the apllication as per th
 Next comes the designing phase where I worked on High Level Architecture, Process Maps, UML diagrams, Wireframes, Sitemap and Prototype.
 <p align="center">High level design</p>
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99240191-3c5aa400-2850-11eb-9741-ed0757ebc65a.gif"></p> 
-<p align="center">Development workflow</p>
+<p align="center">Architecture and workflow</p>
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99240587-d02c7000-2850-11eb-87ee-098df35e6577.gif"></p> 
 <p align="center">Prototype development</p>
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99240199-411f5800-2850-11eb-8789-74d13c0a9f7e.gif"></p> 
