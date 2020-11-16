@@ -67,7 +67,7 @@ Next comes the designing phase where I worked on High Level Architecture, Proces
 ### Development
 In development stage, I worked on developing the database model, backend programming in django and later also participated to work on frontend programming in ReactJS.
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99241965-ab38fc80-2852-11eb-9bb1-5aa3c7609c8d.gif"></p> 
-<p align="center"><img align="centre" width="500" height="300" src="https://i.imgur.com/VbXIQcD.mp4"></p> 
+<p align="center"><img align="centre" width="500" height="300" src="https://i.imgur.com/bZLFovd.mp4"></p> 
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99244256-f1dc2600-2855-11eb-80d5-44de5b7e5c24.gif"></p> 
 
 
