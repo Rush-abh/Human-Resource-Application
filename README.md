@@ -55,45 +55,16 @@ Following technologies needs to be installed at the moment to execute the code.
 ## Development Stages
 ### Planning
 <p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99239777-a6bf1480-284f-11eb-9e1f-387208c84e20.gif"></p> 
-![Plan gif](https://user-images.githubusercontent.com/17960965/99239777-a6bf1480-284f-11eb-9e1f-387208c84e20.gif)
+
+### Designing
+<p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99240191-3c5aa400-2850-11eb-9741-ed0757ebc65a.gif"></p> 
+<p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99240587-d02c7000-2850-11eb-87ee-098df35e6577.gif"></p> 
+<p align="center"><img align="centre" width="500" height="300" src="https://user-images.githubusercontent.com/17960965/99240199-411f5800-2850-11eb-8789-74d13c0a9f7e.gif"></p> 
 
 
+### Development
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
