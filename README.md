@@ -2,7 +2,7 @@
   <h3 align="center">Human Resource Application</h3>
 
   <p align="center">
-      <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+      <a href="https://github.com/Rush-abh/Human-Resource-Application"><strong>Explore the docs »</strong></a>
     <br />
 
 
