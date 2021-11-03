@@ -39,14 +39,14 @@ Major frameworks used to build the project.
 ### Prerequisites
 
 Following technologies needs to be installed at the moment to execute the code.
--	Python version - 3.7.6
--	Miniconda - 4.8.3
--	Django 3.0.5
--	MySQL Community Server - 8.0.20
--	MySQL Workbench - 8.0.20
--	Postman - 7.23.0
--	ReactJS - 16.12.0
--	NodeJS - LTS 12.16.3
+-	Python version - 3 <!-- .7.6 -->
+-	Miniconda - 4 <!-- .8.3 -->
+-	Django 3 <!-- .0.5 -->
+-	MySQL Community Server - 8 <!-- .0.20 -->
+-	MySQL Workbench - 8 <!-- .0.20 -->
+-	Postman - 7 <!-- .23.0 -->
+-	ReactJS - 16 <!-- .12.0 -->
+-	NodeJS - LTS 12 <!-- .16.3 -->
 
 <!-- Development Stages -->
 ## Development Stages
@@ -84,7 +84,7 @@ In development stage, I worked on developing the database model, backend program
 
 
 <!-- Tools Used -->
-## Tools Used 
+## Tools used during project
 * [Adobe XD](https://www.adobe.com/au/products/xd.html)
 * [Jira](https://www.atlassian.com/software/jira)
 * [Confluence](https://www.atlassian.com/software/confluence)
